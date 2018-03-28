@@ -1,1 +1,2 @@
 # currencyconverter
+converts from £ to $
